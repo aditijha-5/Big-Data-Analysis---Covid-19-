@@ -1,10 +1,10 @@
-# 🦠 Big Data Analysis of COVID-19 Using PySpark
+# Big Data Analysis of COVID-19 Using PySpark
 
 This project demonstrates how to perform scalable data analysis on a real-world COVID-19 dataset using Apache **PySpark** in **Google Colab**. It focuses on extracting insights such as top affected provinces and cities, handling missing data, and exploring basic correlations, all while leveraging PySpark's distributed data processing capabilities.
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To showcase how PySpark can be used to process and analyze large-scale datasets efficiently by:
 
@@ -15,7 +15,7 @@ To showcase how PySpark can be used to process and analyze large-scale datasets 
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Python 3**
 - **Apache PySpark**
@@ -25,7 +25,7 @@ To showcase how PySpark can be used to process and analyze large-scale datasets 
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 The dataset used contains COVID-19 case data across various cities and provinces.
 
@@ -39,7 +39,7 @@ The dataset used contains COVID-19 case data across various cities and provinces
 
 ---
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 
 - ✅ Dropped rows with missing/null values
 - ✅ Grouped and summed confirmed cases by `province` and `city`
